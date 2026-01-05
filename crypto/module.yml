@@ -1,7 +1,5 @@
 name: Criptografía Básica
 challenges:
-  - id: introduccion
-    name: Introducción a la Criptografía
   - id: binario
     name: Codificación Binaria
   - id: octal
