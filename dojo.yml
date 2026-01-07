@@ -1,8 +1,8 @@
-id: example
-name: Example Dojo
-type: example
+id: primertest
+name: Prueba de Dojo
+type: topic
 award:
-  emoji: 😀
+  emoji: 💥
 image: pwncollege/challenge-simple
 modules:
   - id: hello
